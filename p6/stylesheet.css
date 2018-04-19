@@ -1,0 +1,32 @@
+.section-title {
+    text-align: center;
+}
+
+form {
+    margin: auto;
+    width: 400px;
+}
+
+table {
+    padding: 40px;
+    content: center;
+}
+
+th {
+    font-size: 40px;
+}
+
+body {
+    background: url(img/babypic1.jpg) no-repeat center center fixed;
+    background-size: cover;
+    color: #9932CC;
+}
+
+.apple{
+   border:  0 30% 0 30%;
+
+    padding-left: 40%;
+}
+.noodle{
+    text-align: center;
+}

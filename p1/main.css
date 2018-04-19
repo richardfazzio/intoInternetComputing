@@ -1,0 +1,79 @@
+body{
+		color: black;
+	}
+header{
+	background-image: url(img/waves.jpg);
+	color: white;
+	margin: 0;
+	}
+
+header h1{
+
+margin: 0;
+
+
+}
+#home {
+	text-align: center;
+}
+#bottom{
+	background-image: url(img/waves.jpg);
+	mar
+}
+#botP{
+	padding: left 30%;
+}
+#CT{
+	color: red;
+}
+#small{
+	width: 400px;
+	height: 500px;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0 0 0 15px;
+	color: white;
+	
+}
+
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	margin: 0;
+	width: 15%;
+
+}
+div ul li{
+	list-style: none;
+}
+table{
+	border: 2px solid black;
+}
+td{
+	padding: 10%
+}
+nav ul li a{
+	color: blue;
+}
+span{
+	color: blue;
+}
+.col{
+
+float: left;
+width: 31%;
+margin: 1%;
+text-align: center;
+
+}
+.t1{
+	margin: 0 30% 0 30%;
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+	clear: both;
+}

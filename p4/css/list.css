@@ -1,0 +1,51 @@
+#top{
+   
+   text-align: center;
+
+   margin: 10% 30% 10% 30%;
+   background: white;
+   
+}
+
+#back{
+    border-image-repeat: none;
+background-image: url(../img/s1p2.jpg);
+}
+
+.done {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+#tasks {
+    list-style-type: none;
+    margin: auto;
+    padding: auto;
+}
+
+#tasks li {
+    padding: 15px 0px 15px 0px;
+    border-bottom: 3px solid #eee;
+}
+
+.deleteItem {
+    float: right;
+    color: darkviolet;
+    cursor: pointer;
+}
+
+input [type=checkbox] {
+    margin-right: 7px;
+}
+
+completeItem {
+    margin-right:
+}
+
+.editText {
+    display: none;
+}
+
+.saveButton {
+    display: none;
+}
